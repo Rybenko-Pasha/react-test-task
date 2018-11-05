@@ -1,6 +1,6 @@
 # Practice of vanila JavaScript with js30
 
-This is repository my test task for react course in MateAcademy
+This is my test task for react course in MateAcademy
 
 ## List
 
