@@ -1,4 +1,4 @@
-# Practice of vanila JavaScript with js30
+# React test task
 
 This is my test task for react course in MateAcademy
 
